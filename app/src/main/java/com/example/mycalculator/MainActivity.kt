@@ -83,10 +83,6 @@ class MainActivity : AppCompatActivity() {
 
         }
 
-        View.OnClickListener {
-            tvResult.text = "Result"
-        }
-
     }
 
     private fun appendSymbol(value: String) {
